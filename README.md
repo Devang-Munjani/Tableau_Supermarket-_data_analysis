@@ -6,6 +6,8 @@
 This project is a **Tableau dashboard** built to analyze one year of supermarket sales data.  
 The dashboard provides insights into **sales performance, customer behavior, product trends, and ratings** using interactive visualizations.
 
+Dataset link: https://www.kaggle.com/datasets/hanif13/supermarket-sales
+
 ---
 
 ## 📊 Project Overview
@@ -75,3 +77,4 @@ The dashboard includes the following **Key Performance Indicators (KPIs)**:
 
 Created by **Devang Munjani**  
 Feel free to connect or give feedback 😊
+Tableau Profile link: https://public.tableau.com/app/profile/devang.munjani/vizzes
