@@ -1,3 +1,6 @@
+![Dashboard Screenshot](./dashboard.png)
+
+
 # 🛒 Supermarket Sales Analysis (Tableau)
 
 This project is a **Tableau dashboard** built to analyze one year of supermarket sales data.  
@@ -66,7 +69,6 @@ The dashboard includes the following **Key Performance Indicators (KPIs)**:
 ### 6. Bar Chart
 - **Average Rating by Product Line**
 - Helps understand customer satisfaction across categories
-- 
 ---
 
 ## 📬 Contact
